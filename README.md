@@ -1,2 +1,2 @@
 # demo-project
-Author - Eldhose
+Author - Eldhose Paul
